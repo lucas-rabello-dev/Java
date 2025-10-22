@@ -22,6 +22,5 @@ public class Main {
         double resultado2 = a / b2; // aqui o resultado sai como 2.0
 
         System.out.printf("%.2f  %.2f", resultado, resultado2);
-
     }
 }
